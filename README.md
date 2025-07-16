@@ -9,9 +9,9 @@
 💡 Open to collaborating on projects that create positive impact.  
 ⚡ Fun fact: I'm also a volunteer Scout leader, bringing teamwork and leadership to my tech journey.
 
-### 🛠️ Skills
+### 🛠️ Languages & Tools
 
-HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Python, Django, Flutter, MySQL, Git.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBlanco&layout=compact&hide=html,css&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Connect with me
 
@@ -43,7 +43,7 @@ HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Python, Django, Fl
 
 ### 🛠️ Tecnologias
 
-HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Python, Django, Flutter, MySQL, Git.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBlanco&layout=compact&hide=html,css&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Conecte-se comigo
 
