@@ -1,54 +1,69 @@
-<h2 align="left">Hi 👋! My name is Matheus Blanco, and I'm a Software Engineer from Brazil.</h2>
+<h2 align="center">🌐 Matheus Blanco - Full Stack Software Engineer</h2>
 
-I'm a software engineer passionate about building scalable, user-friendly applications across **web, front-end, back-end, and mobile**. With over 4 years of experience, I love turning ideas into products that make a positive impact, prioritizing **clean code, usability, and continuous learning** in every project I work on.
+<details open>
+<summary>🇺🇸 English</summary>
 
-Here you will find some of my projects, experiments, and contributions that reflect my dedication to creating meaningful digital experiences.
+👋 Hi! I'm **Matheus Blanco**, a Full Stack Software Engineer from Brazil, passionate about building scalable, user-friendly applications across **web, front-end, back-end, and mobile**. With over **4 years of experience**, I focus on clean code, usability, and continuous learning while delivering impactful products.
 
-🌱 Currently learning advanced TypeScript patterns and system design. Also very interested on Flutter for mobile applications.  
-💡 Always open to collaboration on impactful projects.  
-⚡ Fun fact: I also volunteer as a Scout leader, which helps me bring teamwork and leadership into my tech journey.
+🌱 Currently learning advanced TypeScript and system design.  
+💡 Open to collaborating on projects that create positive impact.  
+⚡ Fun fact: I'm also a volunteer Scout leader, bringing teamwork and leadership to my tech journey.
 
-Feel free to connect and explore my repositories below! 🚀
+### 🛠️ Skills
 
-
-### 🛠️ Languages and Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
+HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Python, Django, Flutter, MySQL, Git.
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-blanco/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msallesblanco@gmail.com)
-
----
+- [LinkedIn](https://www.linkedin.com/in/matheus-blanco/)
+- [Gmail](mailto:msallesblanco@gmail.com)
+- [GitHub](https://github.com/MatheusBlanco)
 
 ### 📊 GitHub Stats
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusBlanco&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBlanco&layout=compact&theme=radical)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusBlanco&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusBlanco&theme=radical)
+![Repo Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusBlanco&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MatheusBlanco)
 
+
+</details>
+
 ---
 
-Feel free to explore my repositories and reach out if you would like to collaborate on impactful projects! 🚀
-###
+<details>
+<summary>🇧🇷 Português</summary>
+
+👋 Olá! Sou **Matheus Blanco**, Engenheiro de Software Full Stack no Brasil, apaixonado por construir aplicações escaláveis e amigáveis ao usuário em **web, front-end, back-end e mobile**. Com mais de **4 anos de experiência**, foco em código limpo, usabilidade e aprendizado contínuo ao entregar produtos de impacto.
+
+🌱 Atualmente estudando TypeScript avançado e arquitetura de sistemas.  
+💡 Aberto a colaborar em projetos que gerem impacto positivo.  
+⚡ Curiosidade: também sou voluntário como escoteiro, trazendo liderança e trabalho em equipe para minha trajetória na tecnologia.
+
+### 🛠️ Tecnologias
+
+HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Python, Django, Flutter, MySQL, Git.
+
+### 📫 Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/matheus-blanco/)
+- [Gmail](mailto:msallesblanco@gmail.com)
+- [GitHub](https://github.com/MatheusBlanco)
+
+### 📊 Estatísticas do GitHub
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusBlanco&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusBlanco&theme=radical)
+![Repo Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusBlanco&theme=radical)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MatheusBlanco)
+
+
+</details>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MatheusBlanco/MatheusBlanco/output/snake.svg" alt="Snake animation" />
 
 ###
