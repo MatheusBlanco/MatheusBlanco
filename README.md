@@ -15,7 +15,7 @@ HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Python, Django, Fl
 
 ### 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/matheus-blanco/)
+- [LinkedIn](https://www.linkedin.com/in/matheus-salles-blanco-9711b3168/)
 - [Gmail](mailto:msallesblanco@gmail.com)
 - [GitHub](https://github.com/MatheusBlanco)
 
@@ -47,7 +47,7 @@ HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Node.js, Python, Django, Fl
 
 ### 📫 Conecte-se comigo
 
-- [LinkedIn](https://www.linkedin.com/in/matheus-blanco/)
+- [LinkedIn]([https://www.linkedin.com/in/matheus-blanco/](https://www.linkedin.com/in/matheus-salles-blanco-9711b3168/))
 - [Gmail](mailto:msallesblanco@gmail.com)
 - [GitHub](https://github.com/MatheusBlanco)
 
